@@ -60,7 +60,7 @@ export default function ProductPage({
 
         <div>
           <p className="uppercase tracking-[4px] text-gold text-sm mb-4">
-            Lyra Decor
+            Faiz Handicrafts
           </p>
 
           <h1 className="font-display text-5xl mb-6">
@@ -71,7 +71,7 @@ export default function ProductPage({
             {product.price}
           </p>
 
-          <p className="text-lyra-muted text-lg leading-relaxed mb-8">
+          <p className="text-faiz handicrafts-muted text-lg leading-relaxed mb-8">
             {product.description}
           </p>
 
@@ -96,7 +96,7 @@ export default function ProductPage({
             </div>
 
             <a
-              href={`https://wa.me/917668521105?text=Hello%20Lyra%20Decor,%20I%20would%20like%20a%20quote%20for%20${product.name}`}
+              href={`https://wa.me/917668521105?text=Hello%20Faiz%20Handicrafts,%20I%20would%20like%20a%20quote%20for%20${product.name}`}
               target="_blank"
               rel="noopener noreferrer"
               className="mt-4 block text-center bg-gold text-dark px-8 py-4 rounded-xl hover:scale-105 transition"
