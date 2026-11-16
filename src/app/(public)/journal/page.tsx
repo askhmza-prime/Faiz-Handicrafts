@@ -53,7 +53,7 @@ export default function JournalPage() {
                 {post.title}
               </h2>
 
-              <p className="mt-3 text-lyra-muted">
+              <p className="mt-3 text-faiz-muted">
                 {post.description}
               </p>
 
