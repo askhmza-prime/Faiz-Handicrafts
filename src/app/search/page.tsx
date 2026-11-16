@@ -22,7 +22,7 @@ export default function SearchPage() {
             Search Results
           </h2>
 
-          <p className="text-lyra-muted mt-4">
+          <p className="text-faiz-muted mt-4">
             Products matching your search will appear here.
           </p>
         </div>
