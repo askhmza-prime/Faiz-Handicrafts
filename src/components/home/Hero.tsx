@@ -30,7 +30,7 @@ export default function Hero() {
               Inspired by Earth
             </h1>
 
-            <p className="mt-6 text-lyra-muted text-lg max-w-md">
+            <p className="mt-6 text-faiz-muted text-lg max-w-md">
               Discover handcrafted luxury decor designed
               to elevate modern living spaces with timeless elegance.
             </p>
