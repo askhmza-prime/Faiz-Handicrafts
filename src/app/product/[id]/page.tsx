@@ -71,7 +71,7 @@ export default function ProductPage({
             {product.price}
           </p>
 
-          <p className="text-faiz handicrafts-muted text-lg leading-relaxed mb-8">
+          <p className="text-faiz-muted text-lg leading-relaxed mb-8">
             {product.description}
           </p>
 
