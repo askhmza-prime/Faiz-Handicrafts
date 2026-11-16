@@ -37,14 +37,14 @@ export default function ShopPage() {
 
       <div className="mb-12">
         <p className="uppercase tracking-[4px] text-gold text-sm">
-          Lyra Decor
+          Faiz Handicrafts
         </p>
 
         <h1 className="font-display text-5xl md:text-7xl mt-3">
           Shop Collection
         </h1>
 
-        <p className="text-lyra-muted mt-4 max-w-xl">
+        <p className="text-faiz handicrafts-muted mt-4 max-w-xl">
           Discover handcrafted brass and metal decor
           pieces designed for luxury interiors.
         </p>
