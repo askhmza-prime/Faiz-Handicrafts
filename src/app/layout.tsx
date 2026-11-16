@@ -2,6 +2,11 @@ import './globals.css'
 import Navbar from '@/components/layout/Navbar'
 import Footer from '@/components/layout/Footer'
 
+export const metadata = {
+  title: 'Faiz Handicrafts',
+  description: 'Premium handcrafted brass and metal decor for luxury interiors.',
+}
+
 export default function RootLayout({
   children,
 }: {
@@ -10,21 +15,21 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-  <Navbar />
+        <Navbar />
 
-  {children}
+        {children}
 
-  <a
-    href="https://wa.me/917668521105?text=Hello%20Faiz%20Handicrafts%2C%20I%20am%20interested%20in%20your%20products."
-    target="_blank"
-    rel="noopener noreferrer"
-    className="fixed bottom-6 right-6 z-50 bg-green-500 text-white w-16 h-16 rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition text-2xl"
-  >
-    💬
-  </a>
+        <a
+          href="https://wa.me/917668521105?text=Hello%20Faiz%20Handicrafts%2C%20I%20am%20interested%20in%20your%20products."
+          target="_blank"
+          rel="noopener noreferrer"
+          className="fixed bottom-6 right-6 z-50 bg-green-500 text-white w-16 h-16 rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition text-2xl"
+        >
+          💬
+        </a>
 
-  <Footer />
-</body>
+        <Footer />
+      </body>
     </html>
-    )
-}
+  )
+          }
