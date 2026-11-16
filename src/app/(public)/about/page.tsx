@@ -3,15 +3,15 @@ export default function AboutPage() {
     <main className="max-w-5xl mx-auto px-6 py-20">
 
       <p className="uppercase tracking-[4px] text-gold text-sm">
-        About Lyra Decor
+        About Faiz Handicrafts
       </p>
 
       <h1 className="font-display text-6xl mt-4">
         Crafted With Passion
       </h1>
 
-      <p className="mt-8 text-lg leading-relaxed text-lyra-muted">
-        Lyra Decor specializes in handcrafted brass and
+      <p className="mt-8 text-lg leading-relaxed text-Faiz-muted">
+        Faiz Handicrafts specializes in handcrafted brass and
         metal decor pieces that blend timeless artistry
         with modern luxury. Every piece is designed to
         elevate homes, hotels, and premium interiors.
