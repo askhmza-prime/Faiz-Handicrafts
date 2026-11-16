@@ -22,7 +22,7 @@ export default function ContactPage() {
             Contact Information
           </h3>
 
-          <p>Email: hello@lyradecor.com</p>
+          <p>Email: hello@faizhandicrafts.com</p>
           <p className="mt-2">Phone: +91 76685 21105</p>
           <p className="mt-2">Moradabad, India</p>
         </div>
