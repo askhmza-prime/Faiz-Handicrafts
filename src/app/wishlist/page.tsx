@@ -17,7 +17,7 @@ export default function WishlistPage() {
             No Saved Products
           </h2>
 
-          <p className="text-lyra-muted mt-4">
+          <p className="text-faiz-muted mt-4">
             Products you love will appear here.
           </p>
 
