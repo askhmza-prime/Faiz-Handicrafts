@@ -24,7 +24,7 @@ export default function JournalPage() {
     <main className="max-w-6xl mx-auto px-6 py-20">
 
       <p className="uppercase tracking-[4px] text-gold text-sm">
-        Lyra Journal
+        Faiz Journal
       </p>
 
       <h1 className="font-display text-6xl mt-4">
