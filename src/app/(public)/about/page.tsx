@@ -10,7 +10,7 @@ export default function AboutPage() {
         Crafted With Passion
       </h1>
 
-      <p className="mt-8 text-lg leading-relaxed text-faiz handicrafts-muted">
+      <p className="mt-8 text-lg leading-relaxed text-faiz-muted">
         Faiz Handicrafts specializes in handcrafted brass and
         metal decor pieces that blend timeless artistry
         with modern luxury. Every piece is designed to
