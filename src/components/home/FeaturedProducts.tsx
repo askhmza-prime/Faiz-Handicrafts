@@ -66,7 +66,7 @@ export default function FeaturedProducts() {
                   {item.name}
                 </h3>
 
-                <p className="mt-2 text-lyra-muted">
+                <p className="mt-2 text-faiz handicrafts-muted">
                   {item.price}
                 </p>
 
