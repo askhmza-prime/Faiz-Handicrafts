@@ -5,7 +5,7 @@ export default function WhyChooseUs() {
       <div className="max-w-6xl mx-auto px-6">
 
         <h2 className="font-display text-5xl text-center mb-16">
-          Why Choose Lyra
+          Why Choose Faiz Handicrafts
         </h2>
 
         <div className="grid md:grid-cols-3 gap-10">
