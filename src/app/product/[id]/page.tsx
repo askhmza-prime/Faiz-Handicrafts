@@ -132,7 +132,7 @@ export default function ProductPage({
                   {item.name}
                 </h3>
 
-                <p className="mt-2 text-lyra-muted">
+                <p className="mt-2 text-faiz-muted">
                   Premium handcrafted decor
                 </p>
 
