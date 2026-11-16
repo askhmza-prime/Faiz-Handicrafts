@@ -35,7 +35,7 @@ export default function CartPage() {
               Cart Empty
             </h2>
 
-            <p className="mt-4 text-lyra-muted">
+            <p className="mt-4 text-faiz-muted">
               Add products to continue shopping.
             </p>
           </>
