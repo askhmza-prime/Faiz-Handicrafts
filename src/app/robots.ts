@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://lyra-decor.vercel.app/sitemap.xml',
+    sitemap: 'https://faizhandicrafts.vercel.app/sitemap.xml',
   }
 }
