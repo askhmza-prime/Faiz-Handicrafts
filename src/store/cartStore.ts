@@ -35,7 +35,7 @@ export const useCartStore = create<CartStore>()(
         }),
     }),
     {
-      name: 'lyra-cart',
+      name: 'my-cart',
     }
   )
 )
