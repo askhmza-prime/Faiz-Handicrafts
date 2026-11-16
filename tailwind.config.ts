@@ -12,7 +12,7 @@ const config: Config = {
         gold3:  '#f0d080',
         dark:   '#1a1610',
         dark2:  '#2e2618',
-        lyra:   { text: '#3a3020', muted: '#6a5c40' },
+        faiz:   { text: '#3a3020', muted: '#6a5c40' },
         white:  '#fdfaf4',
       },
       fontFamily: {
