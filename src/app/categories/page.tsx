@@ -52,7 +52,7 @@ export default function CategoriesPage() {
               {item.title}
             </h2>
 
-            <p className="mt-3 text-lyra-muted">
+            <p className="mt-3 text-faiz-muted">
               {item.desc}
             </p>
           </div>
